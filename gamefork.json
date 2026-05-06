@@ -1,0 +1,6 @@
+{
+  "manifest_version": 1,
+  "entry": "main.lua",
+  "format": "tic80",
+  "readme": "README.md"
+}
